@@ -1,0 +1,6 @@
+.vscode/
+.DS_Store
+__pycache__
+Pipfile
+Python_Developer_Test.pdf
+
