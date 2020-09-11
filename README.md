@@ -20,6 +20,7 @@
 `docker run -it -d --name everis-tech-test everis-tech-test`
 
 `docker exec -it everis-tech-test bash`
+
 `invoke test`
 
 `python core.py product_id`
